@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+background-color: black;
+color:whitesmoke;
+padding: 4
+0px;        }
+section {
+background-color:white;
+color:black;
+padding: 20px;
+display:flex;
+flex-direction: row;
+}
+ul {
+    margin:0;
+    padding: 0;
+    list-style-type: none;
+}
+li {
+    display: inline-block;
+    margin: 0 20px 0 0;
+    color: white;
+}
+div{
+    background-color:yellowgreen;
+    margin:auto;
+    width:100px;
+    
+}
+footer {
+background-color: black;
+padding: 10px 20px;
+}
