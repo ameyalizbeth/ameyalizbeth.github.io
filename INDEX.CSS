@@ -25,7 +25,7 @@ ul {
 li {
     display: inline-block;
     margin: 0 20px 0 0;
-    color: white;
+    color: red;
 }
 div{
     background-color:yellowgreen;
